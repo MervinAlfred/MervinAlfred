@@ -1,16 +1,79 @@
-## Hi there 👋
+# Hi 👋, I'm Mervin Alfred
 
-<!--
-**MervinAlfred/MervinAlfred** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Flutter Developer | Cross-Platform Mobile App Developer
 
-Here are some ideas to get you started:
+🚀 Building Scalable & Performant Cross-Platform Applications
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 👨‍💻 About Me
+
+- 💼 Flutter Developer at Efficient Works Technologies Pvt. Ltd.
+- 📱 Developing Android & iOS applications using Flutter.
+- 🏗️ Experienced in Clean Architecture and BLoC.
+- 🔗 REST API & GraphQL Integration.
+- 🧪 Flutter Unit Testing.
+- 🖨️ Bluetooth & Wi-Fi Printer Integration.
+- 📍 Kallakurichi, Tamil Nadu, India.
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+- Dart
+
+**Frameworks**
+- Flutter
+
+**Architecture**
+- Clean Architecture
+- BLoC / Cubit
+
+**Backend**
+- REST APIs
+- GraphQL
+
+**Database**
+- SQLite
+- Hive
+- SharedPreferences
+
+**Tools**
+- Git
+- GitHub
+- GitLab
+- Android Studio
+- VS Code
+- Postman
+
+---
+
+## 🚀 Featured Projects
+
+### EMZO Quick Billing (POS)
+- Restaurant POS System
+- Bluetooth & Wi-Fi Printing
+- Responsive Mobile & Tablet UI
+
+### EMZO Waiter App
+- Table Ordering
+- Kitchen Order Management
+- Responsive UI
+
+### EMZO Label Printing
+- Bulk Label Printing
+- Barcode Scanning
+- Print Logs
+
+---
+
+## 📫 Connect With Me
+
+📧 Email: **mervinalfred007@gmail.com**
+
+💼 LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN
+
+🐙 GitHub: https://github.com/MervinAlfred
+
+📍 Kallakurichi, Tamil Nadu, India
