@@ -72,7 +72,7 @@
 
 📧 Email: **mervinalfred007@gmail.com**
 
-💼 LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN
+💼 LinkedIn: www.linkedin.com/in/mervin-alfred
 
 🐙 GitHub: https://github.com/MervinAlfred
 
